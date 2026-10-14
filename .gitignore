@@ -1,0 +1,22 @@
+
+# Dependencies and generated files
+**/node_modules/
+**/dist/
+**/build/
+**/target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+startup-log.txt
+
